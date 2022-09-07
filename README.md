@@ -1,4 +1,4 @@
-# Complete-CSS-Course
+# Complete CSS Course
 
 
 ## Basic level
@@ -15,7 +15,7 @@
   <li>Working examples</li>
 </ul>
 
-## Experienced level
+## Experienced level 
 
 To get this level you should have knowledge on Javascript and HTML
 
@@ -30,7 +30,7 @@ To get this level you should have knowledge on Javascript and HTML
   <li>Template Examples</li>
  </ul>
  
-## Architech level
+## Architech level | Specialist in CSS
 
 To get this level you should have knowledge on Javascript and HTML
 <ul>
